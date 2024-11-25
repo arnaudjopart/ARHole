@@ -63,6 +63,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7210223115026237743, guid: 06e88b0595781964aad670654b3fd763,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8017545418642772885, guid: 06e88b0595781964aad670654b3fd763,
         type: 3}
       propertyPath: m_Name
@@ -71,6 +76,7 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 8249008086935442741, guid: 06e88b0595781964aad670654b3fd763, type: 3}
     - {fileID: 7554774100557372914, guid: 06e88b0595781964aad670654b3fd763, type: 3}
+    - {fileID: 918782555660523391, guid: 06e88b0595781964aad670654b3fd763, type: 3}
     m_RemovedGameObjects:
     - {fileID: 5490636430911023610, guid: 06e88b0595781964aad670654b3fd763, type: 3}
     m_AddedGameObjects: []
@@ -98,4 +104,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6cde9426d59be084ca023a03b81f4faf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_nbrCubes: {fileID: 11400000, guid: 7991cfcfbe47c6540ae72c367390f1cb, type: 2}
